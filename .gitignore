@@ -1,0 +1,24 @@
+# Maven build output and generated labels
+**/target/
+*.class
+
+# Editors and local environment
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# LaTeX intermediate output; curated paper PDFs are versioned
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
